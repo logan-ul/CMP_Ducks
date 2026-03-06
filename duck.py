@@ -16,7 +16,7 @@ class DuckManager:
                 with open("cache.json", "w") as file:
                     pass
             with open("cache.json", "r") as file:
-                data = file.read()
+                data = json.load(file)
         self.data = data
         self.duck_list = []
 
