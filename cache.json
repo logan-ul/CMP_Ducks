@@ -786,18 +786,19 @@
     },
     {
         "_id": "69a8ea5053e250fdaf139d6f",
-        "name": "Glider",
+        "name": "glider",
         "adjectives": [
             "smooth",
             "calm",
             "steady"
         ],
         "body": {
-            "head": "green",
-            "frontLeft": "blue",
-            "frontRight": "yellow",
-            "rearLeft": "pink",
-            "rearRight": "purple"
+            "head": "#f0d35f",
+            "frontLeft": "#f0d35f",
+            "frontRight": "#f0d35f",
+            "rearLeft": "#f0d35f",
+            "rearRight": "#f0d35f",
+            "_id": "69b165ce5ddac37686700485"
         },
         "derpy": false,
         "bio": "Glider moves gracefully through every challenge.",
@@ -808,7 +809,8 @@
             "health": 7,
             "focus": 8,
             "intelligence": 7,
-            "kindness": 7
+            "kindness": 7,
+            "_id": "69b165ce5ddac37686700486"
         },
         "__v": 0,
         "assembler": "Eli Brooks"

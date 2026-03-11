@@ -39,7 +39,9 @@ class DuckManager:
         """Accepts a string and returns the duck with the matching assembler, note this currently deos not work"""
         return list(filter(lambda duck: assembler.lower() in duck.assembler.lower(), self.duck_list))
 
-    
+    def update_all_ducks(self):
+        for duck in self.duck_list:
+            duck.update_data()
 
         
 

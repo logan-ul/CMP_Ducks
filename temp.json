@@ -1,0 +1,25 @@
+{
+    "_id": "69a8ea5053e250fdaf139d6f",
+    "name": "Glider",
+    "adjectives": ["smooth", "calm", "steady"],
+    "body": {
+      "head": "green",
+      "frontLeft": "blue",
+      "frontRight": "yellow",
+      "rearLeft": "pink",
+      "rearRight": "purple"
+    },
+    "derpy": false,
+    "bio": "Glider moves gracefully through every challenge.",
+    "date": "2026-03-04T00:00:00.000Z",
+    "approved": true,
+    "stats": {
+      "strength": 7,
+      "health": 7,
+      "focus": 8,
+      "intelligence": 7,
+      "kindness": 7
+    },
+    "__v": 0,
+    "assembler": "Eli Brooks"
+  }
